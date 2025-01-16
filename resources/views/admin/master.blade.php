@@ -181,7 +181,7 @@
         @include('notify::components.notify')
         <!-- /.navbar -->
         <!-- Main Sidebar Container -->
-        @include('Admin.partials.sidebar')
+        @include('admin.partials.sidebar')
         <!-- Content Wrapper. Contains page content -->
         <div class="content-wrapper" style="padding: 20px">
             @yield('content')

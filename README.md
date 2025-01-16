@@ -79,7 +79,7 @@ Follow the steps below to set up and run the Employee Management System on your 
 2.  **Clone the Repository**: Clone this repository to your server or local development environment.
 
     ```bash
-    https://github.com/akikhossain/Employee-Management-System.git
+    https://github.com/amanklauncherr/launcherr_time.git
 
     ```
 
@@ -124,10 +124,6 @@ If you would like to contribute to this project, please follow our contribution 
 # License
 
 This project is licensed under the MIT License.
-
-# Support
-
-If you encounter any issues or have questions, please contact our support team at mr.akikhossain@gmail.com
 
 # Acknowledgments
 

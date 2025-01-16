@@ -9,13 +9,13 @@ use App\Http\Controllers\Frontend\homeController as FrontendHomeController;
 use App\Http\Controllers\LeaveController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
-use App\Http\controllers\manageEmployeeController;
+use App\Http\Controllers\manageEmployeeController;
 use App\Http\Controllers\OrganizationController;
 use App\Http\Controllers\PayrollController;
 use App\Http\Controllers\SalaryController;
 use App\Http\Controllers\ServicesController;
 use App\Http\Controllers\TaskController;
-use App\Http\controllers\viewEmployeeController;
+use App\Http\Controllers\viewEmployeeController;
 
 
 /*
